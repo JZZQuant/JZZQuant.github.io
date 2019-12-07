@@ -12,5 +12,13 @@
       <link>/publication/</link>
     </image>
     
+    <item>
+      <title>Paper Title Number 1</title>
+      <link>/publication/_index-copy/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/_index-copy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
