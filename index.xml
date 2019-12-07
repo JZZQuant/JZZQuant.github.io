@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Raghav&#39;s Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Raghav&#39;s Page</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A novel approach for solving integer equal flow problems using algebraic geometry</title>
       <link>/publication/_integertex/</link>
-      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
       <guid>/publication/_integertex/</guid>
       <description></description>
     </item>
