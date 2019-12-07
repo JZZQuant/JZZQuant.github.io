@@ -15,6 +15,10 @@
   </url>
   
   <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
   </url>
   
@@ -24,10 +28,6 @@
   
   <url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
