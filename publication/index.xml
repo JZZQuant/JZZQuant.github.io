@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paper Title Number 1 | Raghav&#39;s Page</title>
+    <title>Raghav&#39;s Page</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Paper Title Number 1</description>
+    <description>Raghav&#39;s Page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Paper Title Number 1</title>
+      <title>Raghav&#39;s Page</title>
       <link>/publication/</link>
     </image>
     
     <item>
-      <title>Paper Title Number 1</title>
-      <link>/publication/_index-copy/</link>
+      <title>A novel approach for solving integer equal flow problems using algebraic geometry</title>
+      <link>/publication/_papers/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/_index-copy/</guid>
+      <guid>/publication/_papers/</guid>
       <description></description>
     </item>
     
