@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Raghav&#39;s Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Raghav&#39;s Page</title>
@@ -13,28 +13,11 @@
     </image>
     
     <item>
-      <title>A novel approach for solving integer equal flow problems using algebraic geometry</title>
-      <link>/publication/_integertex/</link>
-      <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/_integertex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On machine learning applications with algebraic geometry</title>
-      <link>/publication/_ag/</link>
-      <pubDate>Tue, 03 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/_ag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Pathology of Data science</title>
       <link>/post/pathology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/post/pathology/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;Pathology of Data science&amp;rdquo;
-date: 2019-12-08&lt;/p&gt;
+      <description>&lt;p&gt;$$e^x$$&lt;/p&gt;
 &lt;p&gt;“If Jupiter stands inside the moon, in this year the king will die; variant: there will be an eclipse of the moon and Sun; a great king will die. [&amp;mdash;] If Jupiter enters the moon: there will be famine in the Westland; the King of Elam will fall in battle; in Subartu a noble will revolt against his lord. (Hunger 1992, 100: 60)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.staff.science.uu.nl/~gent0113/va/downloads/ancient_astrology.pdf&#34;&gt;“ Assyrian Astrologer from second Millenia BC &amp;quot; &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To know the future, is an urge that humans are innately born with . It is our apriori(Kant) that we can’t think outside the cause and effect framework that forces us to believe that everything must have a rational cause.We refuse to believe that our misfortunes are not in our control, we refuse to believe that unrelated large movements in our surroundings are going to impact us in ways that we cannot comprehend . Our inability to not reason about things that are out of our control cause insecurity to us ,which are further exploited by people who exactly know how to exploit this apriori urge. There is no much of a difference between the claims of Assyrian astrologers and data scientists of the modern day.&lt;/p&gt;
@@ -50,6 +33,22 @@ date: 2019-12-08&lt;/p&gt;
 If you are a startup with no strong Foundational CTO or Tech head who can drive, and want to use Astrology as a business model : Never been a better time , welcome to party . wait for 10 more years and then go to step 1.
 If you fall into neither of the above categories, hire your managers who have a strong understanding of Philosophy of science and has probably read Popper and Kuhn. It’s just not sufficient to be a good engineer or manager anymore in the era of democratisation of science.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A novel approach for solving integer equal flow problems using algebraic geometry</title>
+      <link>/publication/_integertex/</link>
+      <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/_integertex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On machine learning applications with algebraic geometry</title>
+      <link>/publication/_ag/</link>
+      <pubDate>Tue, 03 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/_ag/</guid>
+      <description></description>
     </item>
     
   </channel>
